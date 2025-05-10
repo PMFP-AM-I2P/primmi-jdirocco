@@ -14,6 +14,7 @@ import org.apache.logging.log4j.Logger;
 public class Operatore {
 
 	public static boolean isPrime(int a) {
+		System.out.println("ciao");
 		return false;
 	}
 
